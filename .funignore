@@ -1,0 +1,9 @@
+.env
+package-lock.json
+template.yml
+.funignore
+Makefile
+*.ts
+*.zip
+.DS_Store
+.env
